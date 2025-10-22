@@ -9,20 +9,20 @@ I'm a **Data Science & Engineering student** passionate about turning complex da
 - Software Development
 - AI & Data Science
 
--  **Location:** Johannesburg, South Africa  
--  **Currently Learning at:** ALX Africa – Frontend ProDev Program  
--  **Website/Portfolio:** [reseanne.dev](https://yourwebsite.com)  
--  **Twitter:** [@ReseanneR](https://twitter.com/ReseanneR)  
--  **LinkedIn:** [Reseanne Rampou](https://www.linkedin.com/in/reseanne-rampou-96abba365)  
--  **GitHub:** [@sean-techie](https://github.com/sean-techie)
-
-
 ##  Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🌿 Meal Mate](https://github.com/yourusername/meal-mate) | A meal planning web app that helps users organize their weekly meals. | React, CSS, API |
 | [🏠 Airbnb Clone](https://github.com/sean-techie/airbnb-clone-project) | A simple Airbnb clone project that replicates core features like listings, search, and booking interface. | HTML, CSS, JavaScript |
+
+###  Connect with Me
+-  **Location:** Johannesburg, South Africa  
+-  **Currently Learning at:** ALX Africa – Frontend ProDev Program  
+-  **Website/Portfolio:** [reseanne.dev](https://yourwebsite.com)  
+-  **Twitter:** [@ReseanneR](https://twitter.com/ReseanneR)  
+-  **LinkedIn:** [Reseanne Rampou](https://www.linkedin.com/in/reseanne-rampou-96abba365)  
+-  **GitHub:** [@sean-techie](https://github.com/sean-techie)
 
 
  *Check out more of my work on [my repositories](https://github.com/sean-techie?tab=repositories).*
