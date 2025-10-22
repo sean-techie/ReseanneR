@@ -16,7 +16,7 @@ I'm a **Data Science & Engineering student** passionate about turning complex da
 |---------|-------------|------|
 | [🌿 Meal Mate](https://github.com/sean-techie/meal-mate) | A meal planning web app that helps users organize their weekly meals. | React, CSS, API |
 | [🏠 Airbnb Clone](https://github.com/sean-techie/airbnb-clone-project) | A simple Airbnb clone project replicating listings, search & booking features. | HTML, CSS, JavaScript |
-| [💊 Transparent Health Block Chain](https://docs.google.com/presentation/d/1ezgIJm7O9Mm88Z_BcIG7oz5GyB4TcwRReWLFH-agZbY/edit?usp=drivesdk) | Wireframes for a blockchain-based health records system, designed in Figma. | Figma, Wireframing |
+| [💊 Transparent Health Block Chain](https://www.figma.com/design/x1dht4o1nsFyqWhDlRoxQZ/TransparentHealth-Blockchain-Wireframe?node-id=0-1&t=chOGfwz47TqL0azk-1) | Wireframes for a blockchain-based health records system, designed in Figma. | Figma, Wireframing |
 
 - Transparent Health Block Chain Wireframes & Slides
 Check out the wireframe slides for this project: [View Slides](https://docs.google.com/presentation/d/1ezgIJm7O9Mm88Z_BcIG7oz5GyB4TcwRReWLFH-agZbY/edit?usp=drivesdk)
