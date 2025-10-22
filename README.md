@@ -3,6 +3,10 @@
 
 ##  About Me
 
+Hi there! I'm **Reseanne Rampou**, a passionate **Frontend ProDev learner** and **Data Science enthusiast** based in **Johannesburg, South Africa**.  
+I enjoy turning complex ideas into **beautiful, functional web experiences**.  
+Currently, I’m focused on **growing my skills in frontend development**, building real-world projects, and collaborating with like-minded techies.
+
 -  **Location:** Johannesburg, South Africa  
 -  **Currently Learning at:** ALX Africa – Frontend ProDev Program  
 -  **Website/Portfolio:** [reseanne.dev](https://yourwebsite.com)  
