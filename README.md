@@ -1,11 +1,13 @@
 # ReseanneR
 #  Hi, I'm Reseanne Rampou   *Frontend ProDev Learner | Data Science Enthusiast | Problem Solver*    Passionate about building impactful and user-friendly web solutions.
 
-##  About Me
+###  About Me
+I'm a **Data Science & Engineering student** passionate about turning complex data into actionable insights. Currently, I'm building skills in **Frontend Development, Software Engineering, and Machine Learning**. I enjoy tackling challenging problems, learning new technologies, and creating projects that make an impact.
 
-Hi there! I'm **Reseanne Rampou**, a passionate **Frontend ProDev learner** and **Data Science enthusiast** based in **Johannesburg, South Africa**.  
-I enjoy turning complex ideas into **beautiful, functional web experiences**.  
-Currently, I’m focused on **growing my skills in frontend development**, building real-world projects, and collaborating with like-minded techies.
+**Learning & Passion:**  
+- ALX Frontend ProDev
+- Software Development
+- AI & Data Science
 
 -  **Location:** Johannesburg, South Africa  
 -  **Currently Learning at:** ALX Africa – Frontend ProDev Program  
