@@ -19,6 +19,9 @@ I'm a **Data Science & Engineering student** passionate about turning complex da
 |---------|-------------|-------------|
 | **Transparent Health Block Chain** | Part of ALX Professional Foundations phase: created a wireframe for a health-related blockchain app, focusing on UX/UI design and layout. | [GitHub](https://github.com/ReseanneR/Transparent_Health_Block_Chain) |
 
+### Transparent Health Block Chain Wireframes & Slides
+Check out the wireframe slides for this project: [View Slides](https://docs.google.com/presentation/d/1ezgIJm7O9Mm88Z_BcIG7oz5GyB4TcwRReWLFH-agZbY/edit?usp=drivesdk)
+
 
 
 
