@@ -11,13 +11,12 @@
 -  **GitHub:** [@sean-techie](https://github.com/sean-techie)
 
 
-
 ##  Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🌿 Meal Mate](https://github.com/yourusername/meal-mate) | A meal planning web app that helps users organize their weekly meals. | React, CSS, API |
-
+| [🏠 Airbnb Clone](https://github.com/sean-techie/airbnb-clone-project) | A simple Airbnb clone project that replicates core features like listings, search, and booking interface. | HTML, CSS, JavaScript |
 
 
  *Check out more of my work on [my repositories](https://github.com/sean-techie?tab=repositories).*
