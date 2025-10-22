@@ -7,18 +7,31 @@
 -  **Currently Learning at:** ALX Africa – Frontend ProDev Program  
 -  **Website/Portfolio:** [reseanne.dev](https://yourwebsite.com)  
 -  **Twitter:** [@ReseanneR](https://twitter.com/ReseanneR)  
--  **LinkedIn:** [ www.linkedin.com/in/reseanne-rampou-96abba365
--  **GitHub:** [@sean-techie)
+-  **LinkedIn:** [Reseanne Rampou](https://www.linkedin.com/in/reseanne-rampou-96abba365)  
+-  **GitHub:** [@sean-techie](https://github.com/sean-techie)
+
+
 
 ##  Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🌿 Meal Mate](https://github.com/yourusername/meal-mate) | A meal planning web app that helps users organize their weekly meals. | React, CSS, API |
-| [📊 Data Dashboard](https://github.com/yourusername/data-dashboard) | A responsive data visualization dashboard with charts and analytics. | HTML, CSS, JS |
-| [💼 Portfolio Website](https://github.com/yourusername/portfolio) | My personal portfolio showcasing my work & experience. | HTML, CSS, JS |
+
+
 
  *Check out more of my work on [my repositories](https://github.com/sean-techie?tab=repositories).*
 
 ---
+
+
+##  A Little Fun Fact
+
+> I love turning data into stories and learning something new every day.  
+> Outside of tech, I enjoy exploring UI design trends and creative problem solving.
+
+---
+
+ *“Code. Learn. Build. Repeat.”*  
+© 2025 Reseanne Rampou
 
